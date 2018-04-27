@@ -25,8 +25,8 @@ average = sum/ size ;
 // and then the extreme values are going to be our maximum and minimum.
 
 
-i = 0; // we have to again reset the "i" value back to zero.
-// we are using a nested loop for bubble sort.
+i = 0;                       // we have to again reset the "i" value back to zero.
+                             // we are using a nested loop for bubble sort.
 
 for (j = size -1 , j > 0 , j-=1)
 
