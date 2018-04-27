@@ -1,0 +1,21 @@
+// Factorial of a given number
+
+// Variable Declaration and initialization
+
+var number = n; // "n" is given by the user
+var factorial =1 ;
+var i = 0;  // "i" will be used as a counter for the loop
+
+
+
+// Process of making a loop for the factorial calculation
+
+for (i=number; i>0; i-=1)
+{
+    factorial *= i ; 
+}
+
+
+console
+
+ 
