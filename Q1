@@ -1,0 +1,18 @@
+// We gets all the input numbers from the user and we will feed it to the cell arrays of C[] starting from C[0]. 
+
+
+
+var i = 0 ;
+var average; 
+var sum = 0 ;
+var size = length (C); // not sure about the syntax of " length" function . 
+
+
+// average calculation
+
+for (i = 0, i< size , i+=1)
+{
+    sum += C[i] ; 
+}
+
+average = sum/ size ; 
